@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Texture/\u4E94\u5B50\u68CB.unity"
+  isLoaded: 1
+  isActive: 1
